@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Game Dev/unreal_game_v1/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Game Dev/unreal_game_v1/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Game Dev/unreal_game_v1/MyProject/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Game Dev/unreal_game_v1/MyProject/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset"
+			]
+		}
+	]
+}
