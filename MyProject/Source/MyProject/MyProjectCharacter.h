@@ -81,7 +81,10 @@ protected:
 	void StopSprint();
 
 	/** Health functionality */
+	UFUNCTION(BlueprintCallable, Category = "Player Health")
 	void TakeHeal(float _healAmount);
+	
+	UFUNCTION(BlueprintCallable, Category = "Player Health")
 	void TakeDamage(float _damageAmount);
 
 	/** Healing functionality */
@@ -91,7 +94,7 @@ protected:
 	void StartDamage();
 
 	/** The amount of health a player currently has */
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Health")
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Player Health")
 	float playerHealth;
 
 protected:
