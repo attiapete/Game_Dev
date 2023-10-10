@@ -86,6 +86,10 @@ void AMyProjectCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInput
 		EnhancedInputComponent->BindAction(CrouchAction, ETriggerEvent::Triggered, this, &AMyProjectCharacter::StartCrouch);
 		EnhancedInputComponent->BindAction(CrouchAction, ETriggerEvent::Completed, this, &AMyProjectCharacter::StopCrouch);
 
+		// Sprinting
+		EnhancedInputComponent->BindAction(SprintAction, ETriggerEvent::Triggered, this, &AMyProjectCharacter::StartSprint);
+		EnhancedInputComponent->BindAction(SprintAction, ETriggerEvent::Completed, this, &AMyProjectCharacter::StopSprint);
+
 		// Moving
 		EnhancedInputComponent->BindAction(MoveAction, ETriggerEvent::Triggered, this, &AMyProjectCharacter::Move);
 
@@ -136,9 +140,22 @@ void AMyProjectCharacter::Look(const FInputActionValue& Value)
 
 void AMyProjectCharacter::StartCrouch()
 {
+	UE_LOG(LogTemp, Warning, TEXT("We are now crouching."));
 	Crouch();
 }
 void AMyProjectCharacter::StopCrouch()
 {
+	UE_LOG(LogTemp, Warning, TEXT("We have stopped crouching."));
 	UnCrouch();
+}
+
+void AMyProjectCharacter::StartSprint()
+{
+	UE_LOG(LogTemp, Warning, TEXT("We are now sprinting."));
+	GetCharacterMovement()->MaxWalkSpeed = 750.0f;
+}
+void AMyProjectCharacter::StopSprint()
+{
+	UE_LOG(LogTemp, Warning, TEXT("We have stopped sprinting."));
+	GetCharacterMovement()->MaxWalkSpeed = 500.0f;
 }
