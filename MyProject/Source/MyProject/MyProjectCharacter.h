@@ -52,6 +52,14 @@ class AMyProjectCharacter : public ACharacter
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Input, meta = (AllowPrivateAccess = "true"))
 	UInputAction* SprintAction;
 
+	/** Heal Input Action */
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Input, meta = (AllowPrivateAccess = "true"))
+	UInputAction* HealAction;
+
+	/** Damage Input Action */
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Input, meta = (AllowPrivateAccess = "true"))
+	UInputAction* DamageAction;
+
 public:
 	AMyProjectCharacter();
 	
@@ -71,6 +79,20 @@ protected:
 	/** Called for sprint input */
 	void StartSprint();
 	void StopSprint();
+
+	/** Health functionality */
+	void TakeHeal(float _healAmount);
+	void TakeDamage(float _damageAmount);
+
+	/** Healing functionality */
+	void StartHeal();
+
+	/** Damage functionality */
+	void StartDamage();
+
+	/** The amount of health a player currently has */
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Health")
+	float playerHealth;
 
 protected:
 	// APawn interface

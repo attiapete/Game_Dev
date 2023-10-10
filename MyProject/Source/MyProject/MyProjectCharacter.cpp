@@ -53,6 +53,8 @@ AMyProjectCharacter::AMyProjectCharacter()
 	
 	// Note: The skeletal mesh and anim blueprint references on the Mesh component (inherited from Character) 
 	// are set in the derived blueprint asset named ThirdPersonCharacter (to avoid direct content references in C++)
+	
+	playerHealth = 1.00f;
 }
 
 void AMyProjectCharacter::BeginPlay()
@@ -89,6 +91,12 @@ void AMyProjectCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInput
 		// Sprinting
 		EnhancedInputComponent->BindAction(SprintAction, ETriggerEvent::Triggered, this, &AMyProjectCharacter::StartSprint);
 		EnhancedInputComponent->BindAction(SprintAction, ETriggerEvent::Completed, this, &AMyProjectCharacter::StopSprint);
+
+		// Heal
+		EnhancedInputComponent->BindAction(HealAction, ETriggerEvent::Triggered, this, &AMyProjectCharacter::StartHeal);
+		
+		// Damage
+		EnhancedInputComponent->BindAction(DamageAction, ETriggerEvent::Triggered, this, &AMyProjectCharacter::StartDamage);
 
 		// Moving
 		EnhancedInputComponent->BindAction(MoveAction, ETriggerEvent::Triggered, this, &AMyProjectCharacter::Move);
@@ -158,4 +166,38 @@ void AMyProjectCharacter::StopSprint()
 {
 	UE_LOG(LogTemp, Warning, TEXT("We have stopped sprinting."));
 	GetCharacterMovement()->MaxWalkSpeed = 500.0f;
+}
+
+void AMyProjectCharacter::StartDamage()
+{
+	TakeDamage(0.02f);
+}
+
+void AMyProjectCharacter::TakeDamage(float _damageAmount)
+{
+	UE_LOG(LogTemp, Warning, TEXT("We are taking damage for %f points."), _damageAmount);
+	playerHealth -= _damageAmount;
+
+	if (playerHealth < 0.00f)
+	{
+		playerHealth = 0.00f;
+	}
+
+}
+
+void AMyProjectCharacter::StartHeal()
+{
+	TakeHeal(0.02f);
+}
+
+void AMyProjectCharacter::TakeHeal(float _healAmount)
+{
+	UE_LOG(LogTemp, Warning, TEXT("We are healing for %f points."), _healAmount);
+	playerHealth += _healAmount;
+
+	if (playerHealth > 1.00f)
+	{
+		playerHealth = 1.00f;
+	}
+
 }
