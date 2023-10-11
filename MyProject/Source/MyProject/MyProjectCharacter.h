@@ -81,8 +81,8 @@ protected:
 	void StartCrouching();
 	void StopCrouching();
 
-	/** Determines if you're crouching*/
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Movement")
+	// Determines if player character is currently crouching*/
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Movement Crouching")
 	bool isCrouching;
 
 	/** Called for sprint input */
