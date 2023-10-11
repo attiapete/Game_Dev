@@ -39,13 +39,13 @@ AMyProjectCharacter::AMyProjectCharacter()
 	GetCharacterMovement()->BrakingDecelerationWalking = 2000.f;
 	GetCharacterMovement()->BrakingDecelerationFalling = 1500.0f;
 
-	/*// Create a camera boom (pulls in towards the player if there is a collision)
+	/*// Create a camera boom - pulls in towards the player if there is a collision (deprecated and replaced with first-person-character
 	CameraBoom = CreateDefaultSubobject<USpringArmComponent>(TEXT("CameraBoom"));
 	CameraBoom->SetupAttachment(RootComponent);
 	CameraBoom->TargetArmLength = 400.0f; // The camera follows at this distance behind the character	
 	CameraBoom->bUsePawnControlRotation = true; // Rotate the arm based on the controller
 
-	// Create a follow camera
+	// Create a follow camera (deprecated for first person camera)
 	FollowCamera = CreateDefaultSubobject<UCameraComponent>(TEXT("FollowCamera"));
 	FollowCamera->SetupAttachment(CameraBoom, USpringArmComponent::SocketName); // Attach the camera to the end of the boom and let the boom adjust to match the controller orientation
 	FollowCamera->bUsePawnControlRotation = true; // Camera does not rotate relative to arm
@@ -54,7 +54,10 @@ AMyProjectCharacter::AMyProjectCharacter()
 	// Note: The skeletal mesh and anim blueprint references on the Mesh component (inherited from Character) 
 	// are set in the derived blueprint asset named ThirdPersonCharacter (to avoid direct content references in C++)
 	
+	//Set default player variables
 	playerHealth = 1.00f;
+	isCrouching = false;
+
 }
 
 void AMyProjectCharacter::BeginPlay()
@@ -85,8 +88,8 @@ void AMyProjectCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInput
 		EnhancedInputComponent->BindAction(JumpAction, ETriggerEvent::Completed, this, &ACharacter::StopJumping);
 
 		// Crouching
-		EnhancedInputComponent->BindAction(CrouchAction, ETriggerEvent::Triggered, this, &AMyProjectCharacter::StartCrouch);
-		EnhancedInputComponent->BindAction(CrouchAction, ETriggerEvent::Completed, this, &AMyProjectCharacter::StopCrouch);
+		EnhancedInputComponent->BindAction(CrouchAction, ETriggerEvent::Triggered, this, &AMyProjectCharacter::StartCrouching);
+		EnhancedInputComponent->BindAction(CrouchAction, ETriggerEvent::Completed, this, &AMyProjectCharacter::StopCrouching);
 
 		// Sprinting
 		EnhancedInputComponent->BindAction(SprintAction, ETriggerEvent::Triggered, this, &AMyProjectCharacter::StartSprint);
@@ -145,7 +148,7 @@ void AMyProjectCharacter::Look(const FInputActionValue& Value)
 		AddControllerPitchInput(LookAxisVector.Y);
 	}
 }
-
+/** Crouching deprecated for new crouching functionality
 void AMyProjectCharacter::StartCrouch()
 {
 	UE_LOG(LogTemp, Warning, TEXT("We are now crouching."));
@@ -155,6 +158,20 @@ void AMyProjectCharacter::StopCrouch()
 {
 	UE_LOG(LogTemp, Warning, TEXT("We have stopped crouching."));
 	UnCrouch();
+}
+*/
+void AMyProjectCharacter::StartCrouching()
+{
+	UE_LOG(LogTemp, Warning, TEXT("We are now crouching."));
+	isCrouching = true;
+	GetCharacterMovement()->MaxWalkSpeed = 200.0f;
+}
+
+void AMyProjectCharacter::StopCrouching()
+{
+	UE_LOG(LogTemp, Warning, TEXT("We have stopped crouching."));
+	isCrouching = false;
+	GetCharacterMovement()->MaxWalkSpeed = 500.0f;
 }
 
 void AMyProjectCharacter::StartSprint()

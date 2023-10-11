@@ -72,9 +72,18 @@ protected:
 	/** Called for looking input */
 	void Look(const FInputActionValue& Value);
 			
-	/** Called for crouch input */
+	/** Called for crouch input (deprecated for toggle)
 	void StartCrouch();
 	void StopCrouch();
+	*/
+
+	/** Called for crouching input*/
+	void StartCrouching();
+	void StopCrouching();
+
+	// Determines if player character is currently crouching*/
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Movement Crouching")
+	bool isCrouching;
 
 	/** Called for sprint input */
 	void StartSprint();
