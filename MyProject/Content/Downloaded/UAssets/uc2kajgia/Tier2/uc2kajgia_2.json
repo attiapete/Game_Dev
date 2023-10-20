@@ -1,0 +1,225 @@
+{
+	"assetId": "uc2kajgia",
+	"assetName": "Rembrandt_Water_Lily_uc2kajgia",
+	"assetType": "3dplant",
+	"assetSubType": "multipleMesh",
+	"assetTier": 2,
+	"assetRootPath": "/Game/Megascans/3D_Plants/Rembrandt_Water_Lily_uc2kajgia",
+	"meshList": [
+		{
+			"meshId": "mesh2",
+			"name": "S_Rembrandt_Water_Lily_uc2kajgia_Var1_lod1",
+			"path": "/Game/Megascans/3D_Plants/Rembrandt_Water_Lily_uc2kajgia/S_Rembrandt_Water_Lily_uc2kajgia_Var1_lod1.S_Rembrandt_Water_Lily_uc2kajgia_Var1_lod1",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh4",
+			"name": "S_Rembrandt_Water_Lily_uc2kajgia_Var2_lod1",
+			"path": "/Game/Megascans/3D_Plants/Rembrandt_Water_Lily_uc2kajgia/S_Rembrandt_Water_Lily_uc2kajgia_Var2_lod1.S_Rembrandt_Water_Lily_uc2kajgia_Var2_lod1",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh6",
+			"name": "S_Rembrandt_Water_Lily_uc2kajgia_Var3_lod1",
+			"path": "/Game/Megascans/3D_Plants/Rembrandt_Water_Lily_uc2kajgia/S_Rembrandt_Water_Lily_uc2kajgia_Var3_lod1.S_Rembrandt_Water_Lily_uc2kajgia_Var3_lod1",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh8",
+			"name": "S_Rembrandt_Water_Lily_uc2kajgia_Var4_lod1",
+			"path": "/Game/Megascans/3D_Plants/Rembrandt_Water_Lily_uc2kajgia/S_Rembrandt_Water_Lily_uc2kajgia_Var4_lod1.S_Rembrandt_Water_Lily_uc2kajgia_Var4_lod1",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh10",
+			"name": "S_Rembrandt_Water_Lily_uc2kajgia_Var5_lod1",
+			"path": "/Game/Megascans/3D_Plants/Rembrandt_Water_Lily_uc2kajgia/S_Rembrandt_Water_Lily_uc2kajgia_Var5_lod1.S_Rembrandt_Water_Lily_uc2kajgia_Var5_lod1",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh12",
+			"name": "S_Rembrandt_Water_Lily_uc2kajgia_Var6_lod1",
+			"path": "/Game/Megascans/3D_Plants/Rembrandt_Water_Lily_uc2kajgia/S_Rembrandt_Water_Lily_uc2kajgia_Var6_lod1.S_Rembrandt_Water_Lily_uc2kajgia_Var6_lod1",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh14",
+			"name": "S_Rembrandt_Water_Lily_uc2kajgia_Var7_lod1",
+			"path": "/Game/Megascans/3D_Plants/Rembrandt_Water_Lily_uc2kajgia/S_Rembrandt_Water_Lily_uc2kajgia_Var7_lod1.S_Rembrandt_Water_Lily_uc2kajgia_Var7_lod1",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		}
+	],
+	"foliageAssetPaths": [
+		"/Game/Megascans/3D_Plants/Rembrandt_Water_Lily_uc2kajgia/Foliage/FT_Rembrandt_Water_Lily_uc2kajgia_Var1_lod1.FT_Rembrandt_Water_Lily_uc2kajgia_Var1_lod1",
+		"/Game/Megascans/3D_Plants/Rembrandt_Water_Lily_uc2kajgia/Foliage/FT_Rembrandt_Water_Lily_uc2kajgia_Var2_lod1.FT_Rembrandt_Water_Lily_uc2kajgia_Var2_lod1",
+		"/Game/Megascans/3D_Plants/Rembrandt_Water_Lily_uc2kajgia/Foliage/FT_Rembrandt_Water_Lily_uc2kajgia_Var3_lod1.FT_Rembrandt_Water_Lily_uc2kajgia_Var3_lod1",
+		"/Game/Megascans/3D_Plants/Rembrandt_Water_Lily_uc2kajgia/Foliage/FT_Rembrandt_Water_Lily_uc2kajgia_Var4_lod1.FT_Rembrandt_Water_Lily_uc2kajgia_Var4_lod1",
+		"/Game/Megascans/3D_Plants/Rembrandt_Water_Lily_uc2kajgia/Foliage/FT_Rembrandt_Water_Lily_uc2kajgia_Var5_lod1.FT_Rembrandt_Water_Lily_uc2kajgia_Var5_lod1",
+		"/Game/Megascans/3D_Plants/Rembrandt_Water_Lily_uc2kajgia/Foliage/FT_Rembrandt_Water_Lily_uc2kajgia_Var6_lod1.FT_Rembrandt_Water_Lily_uc2kajgia_Var6_lod1",
+		"/Game/Megascans/3D_Plants/Rembrandt_Water_Lily_uc2kajgia/Foliage/FT_Rembrandt_Water_Lily_uc2kajgia_Var7_lod1.FT_Rembrandt_Water_Lily_uc2kajgia_Var7_lod1"
+	],
+	"materialInstances": [
+		{
+			"instanceId": "mat1",
+			"instanceName": "MI_Rembrandt_Water_Lily_uc2kajgia_2K",
+			"instancePath": "/Game/Megascans/3D_Plants/Rembrandt_Water_Lily_uc2kajgia/MI_Rembrandt_Water_Lily_uc2kajgia_2K.MI_Rembrandt_Water_Lily_uc2kajgia_2K",
+			"instanceMaster": "master1",
+			"type": "materialInstance",
+			"params": []
+		},
+		{
+			"instanceId": "mat2",
+			"instanceName": "MI_Rembrandt_Water_Lily_uc2kajgia_Billboard_2K",
+			"instancePath": "/Game/Megascans/3D_Plants/Rembrandt_Water_Lily_uc2kajgia/MI_Rembrandt_Water_Lily_uc2kajgia_Billboard_2K.MI_Rembrandt_Water_Lily_uc2kajgia_Billboard_2K",
+			"instanceMaster": "master2",
+			"type": "materialInstance",
+			"params": []
+		}
+	],
+	"textureSets": [
+		{
+			"textureId": "tex1",
+			"type": "ORT",
+			"resolution": "2K",
+			"name": "T_RembrandtWaterLily_uc2kajgia_2K_ART",
+			"path": "/Game/Megascans/3D_Plants/Rembrandt_Water_Lily_uc2kajgia/T_RembrandtWaterLily_uc2kajgia_2K_ART.T_RembrandtWaterLily_uc2kajgia_2K_ART",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "PackTexture"
+				}
+			]
+		},
+		{
+			"textureId": "tex2",
+			"type": "albedo",
+			"resolution": "2K",
+			"name": "T_Rembrandt_Water_Lily_uc2kajgia_2K_D",
+			"path": "/Game/Megascans/3D_Plants/Rembrandt_Water_Lily_uc2kajgia/T_Rembrandt_Water_Lily_uc2kajgia_2K_D.T_Rembrandt_Water_Lily_uc2kajgia_2K_D",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "albedo"
+				}
+			]
+		},
+		{
+			"textureId": "tex3",
+			"type": "normal",
+			"resolution": "2K",
+			"name": "T_Rembrandt_Water_Lily_uc2kajgia_2K_N",
+			"path": "/Game/Megascans/3D_Plants/Rembrandt_Water_Lily_uc2kajgia/T_Rembrandt_Water_Lily_uc2kajgia_2K_N.T_Rembrandt_Water_Lily_uc2kajgia_2K_N",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "normal"
+				}
+			]
+		},
+		{
+			"textureId": "tex1",
+			"type": "PackTexture",
+			"resolution": "2K",
+			"name": "T_RembrandtWaterLily_uc2kajgia_2K_billboard_ART",
+			"path": "/Game/Megascans/3D_Plants/Rembrandt_Water_Lily_uc2kajgia/T_RembrandtWaterLily_uc2kajgia_2K_billboard_ART.T_RembrandtWaterLily_uc2kajgia_2K_billboard_ART",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "PackTexture"
+				}
+			]
+		},
+		{
+			"textureId": "tex2",
+			"type": "albedo",
+			"resolution": "",
+			"name": "T_Rembrandt_Water_Lily_uc2kajgia_Billboard_D",
+			"path": "/Game/Megascans/3D_Plants/Rembrandt_Water_Lily_uc2kajgia/T_Rembrandt_Water_Lily_uc2kajgia_Billboard_D.T_Rembrandt_Water_Lily_uc2kajgia_Billboard_D",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "albedo"
+				}
+			]
+		},
+		{
+			"textureId": "tex3",
+			"type": "normal",
+			"resolution": "",
+			"name": "T_Rembrandt_Water_Lily_uc2kajgia_Billboard_N",
+			"path": "/Game/Megascans/3D_Plants/Rembrandt_Water_Lily_uc2kajgia/T_Rembrandt_Water_Lily_uc2kajgia_Billboard_N.T_Rembrandt_Water_Lily_uc2kajgia_Billboard_N",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "normal"
+				}
+			]
+		}
+	],
+	"masterMaterials": [
+		{
+			"masterId": "master1",
+			"masterMaterialName": "M_MS_Foliage_Material",
+			"path": "/Game/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material"
+		},
+		{
+			"masterId": "master2",
+			"masterMaterialName": "M_MS_Billboard_Material",
+			"path": "/Game/MSPresets/M_MS_Billboard_Material/M_MS_Billboard_Material"
+		}
+	]
+}
