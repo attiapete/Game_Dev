@@ -1,0 +1,81 @@
+{
+  "save": {
+    "version": 1,
+    "RuntimeFunctions": {},
+    "GnlTools": {
+      "1752747": {
+        "name": "Surface Scatter",
+        "identifier": 1752747,
+        "instances": {
+          "8103321": {
+            "identifier": 8103321,
+            "name": "Surface Scatter 0",
+            "visible": true,
+            "frozen": false,
+            "index": 0,
+            "properties": {
+              "0_surface": {
+                "value": {
+                  "SceneContainer": [
+                    1480015,
+                    8321005
+                  ]
+                }
+              },
+              "1_scatter": {
+                "value": {
+                  "SceneContainer": [
+                    995513,
+                    3509532,
+                    9087632,
+                    4030090,
+                    5693793,
+                    9758287
+                  ]
+                }
+              },
+              "3_min_scale": {
+                "value": {
+                  "Float": 0.1
+                }
+              },
+              "4_max_scale": {
+                "value": {
+                  "Float": 0.4
+                }
+              },
+              "7_sink": {
+                "value": {
+                  "Float": -0.13
+                }
+              },
+              "64_seed": {
+                "value": {
+                  "Integer": 496
+                }
+              }
+            },
+            "result": [
+              8333363
+            ]
+          }
+        },
+        "sourceID": 753258
+      }
+    },
+    "ObjectTags": {
+      "9940872": {
+        "color": [
+          126,
+          141,
+          111
+        ],
+        "content": [],
+        "name": "pxa",
+        "type": "SceneContainer"
+      }
+    },
+    "time": "2023-10-20 14:17:41"
+  },
+  "autosave": {}
+}
