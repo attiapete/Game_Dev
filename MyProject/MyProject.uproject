@@ -28,7 +28,7 @@
 		},
 		{
 			"Name": "GraphNUnrealPlugin",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "UltimateFPSFramework",
