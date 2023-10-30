@@ -27,7 +27,7 @@
 			]
 		},
 		{
-			"Name": "GraphNUnrealPlugin",
+			"Name": "PCG",
 			"Enabled": true
 		}
 	]
