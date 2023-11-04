@@ -3500,6 +3500,90 @@
 		{
 			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UltimateFPSFramework/Binaries/Win64/UnrealEditor-SKGAnimGraph.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UltimateFPSFramework/Binaries/Win64/UnrealEditor-SKGAnimGraph.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UltimateFPSFramework/Binaries/Win64/UnrealEditor-SKGAttachment.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UltimateFPSFramework/Binaries/Win64/UnrealEditor-SKGAttachment.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UltimateFPSFramework/Binaries/Win64/UnrealEditor-SKGCrosshair.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UltimateFPSFramework/Binaries/Win64/UnrealEditor-SKGCrosshair.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UltimateFPSFramework/Binaries/Win64/UnrealEditor-SKGGrenade.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UltimateFPSFramework/Binaries/Win64/UnrealEditor-SKGGrenade.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UltimateFPSFramework/Binaries/Win64/UnrealEditor-SKGHoleComponent.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UltimateFPSFramework/Binaries/Win64/UnrealEditor-SKGHoleComponent.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UltimateFPSFramework/Binaries/Win64/UnrealEditor-SKGMeshComponent.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UltimateFPSFramework/Binaries/Win64/UnrealEditor-SKGMeshComponent.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UltimateFPSFramework/Binaries/Win64/UnrealEditor-SKGProjectile.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UltimateFPSFramework/Binaries/Win64/UnrealEditor-SKGProjectile.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UltimateFPSFramework/Binaries/Win64/UnrealEditor-SKGSceneCapture.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UltimateFPSFramework/Binaries/Win64/UnrealEditor-SKGSceneCapture.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UltimateFPSFramework/Binaries/Win64/UnrealEditor-UltimateFPSEditor.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UltimateFPSFramework/Binaries/Win64/UnrealEditor-UltimateFPSEditor.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UltimateFPSFramework/Binaries/Win64/UnrealEditor-UltimateFPSFramework.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UltimateFPSFramework/Binaries/Win64/UnrealEditor-UltimateFPSFramework.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UltimateFPSFramework/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
 		}
 	],
 	"RuntimeDependencies": [
@@ -24797,6 +24881,10 @@
 		},
 		{
 			"Path": "$(ProjectDir)/MyProject.uproject",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UltimateFPSFramework/UltimateFPSFramework.uplugin",
 			"Type": "UFS"
 		}
 	],

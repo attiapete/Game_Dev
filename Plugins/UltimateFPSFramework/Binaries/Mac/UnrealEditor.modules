@@ -1,0 +1,16 @@
+{
+	"BuildId": "27405482",
+	"Modules": 
+	{
+		"SKGAnimGraph": "UnrealEditor-SKGAnimGraph.dylib",
+		"SKGAttachment": "UnrealEditor-SKGAttachment.dylib",
+		"SKGCrosshair": "UnrealEditor-SKGCrosshair.dylib",
+		"SKGGrenade": "UnrealEditor-SKGGrenade.dylib",
+		"SKGHoleComponent": "UnrealEditor-SKGHoleComponent.dylib",
+		"SKGMeshComponent": "UnrealEditor-SKGMeshComponent.dylib",
+		"SKGProjectile": "UnrealEditor-SKGProjectile.dylib",
+		"SKGSceneCapture": "UnrealEditor-SKGSceneCapture.dylib",
+		"UltimateFPSEditor": "UnrealEditor-UltimateFPSEditor.dylib",
+		"UltimateFPSFramework": "UnrealEditor-UltimateFPSFramework.dylib"
+	}
+}

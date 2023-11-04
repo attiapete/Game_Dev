@@ -1,0 +1,186 @@
+{
+	"assetId": "xh5pdgiqx",
+	"assetName": "Greater_Burdock_xh5pdgiqx",
+	"assetType": "3dplant",
+	"assetSubType": "multipleMesh",
+	"assetTier": 1,
+	"assetRootPath": "/Game/Megascans/3D_Plants/Greater_Burdock_xh5pdgiqx",
+	"meshList": [
+		{
+			"meshId": "mesh2",
+			"name": "S_Greater_Burdock_xh5pdgiqx_Var1_lod0",
+			"path": "/Game/Megascans/3D_Plants/Greater_Burdock_xh5pdgiqx/S_Greater_Burdock_xh5pdgiqx_Var1_lod0.S_Greater_Burdock_xh5pdgiqx_Var1_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh4",
+			"name": "S_Greater_Burdock_xh5pdgiqx_Var2_lod0",
+			"path": "/Game/Megascans/3D_Plants/Greater_Burdock_xh5pdgiqx/S_Greater_Burdock_xh5pdgiqx_Var2_lod0.S_Greater_Burdock_xh5pdgiqx_Var2_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh6",
+			"name": "S_Greater_Burdock_xh5pdgiqx_Var3_lod0",
+			"path": "/Game/Megascans/3D_Plants/Greater_Burdock_xh5pdgiqx/S_Greater_Burdock_xh5pdgiqx_Var3_lod0.S_Greater_Burdock_xh5pdgiqx_Var3_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh8",
+			"name": "S_Greater_Burdock_xh5pdgiqx_Var4_lod0",
+			"path": "/Game/Megascans/3D_Plants/Greater_Burdock_xh5pdgiqx/S_Greater_Burdock_xh5pdgiqx_Var4_lod0.S_Greater_Burdock_xh5pdgiqx_Var4_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		}
+	],
+	"foliageAssetPaths": [
+		"/Game/Megascans/3D_Plants/Greater_Burdock_xh5pdgiqx/Foliage/FT_Greater_Burdock_xh5pdgiqx_Var1_lod0.FT_Greater_Burdock_xh5pdgiqx_Var1_lod0",
+		"/Game/Megascans/3D_Plants/Greater_Burdock_xh5pdgiqx/Foliage/FT_Greater_Burdock_xh5pdgiqx_Var2_lod0.FT_Greater_Burdock_xh5pdgiqx_Var2_lod0",
+		"/Game/Megascans/3D_Plants/Greater_Burdock_xh5pdgiqx/Foliage/FT_Greater_Burdock_xh5pdgiqx_Var3_lod0.FT_Greater_Burdock_xh5pdgiqx_Var3_lod0",
+		"/Game/Megascans/3D_Plants/Greater_Burdock_xh5pdgiqx/Foliage/FT_Greater_Burdock_xh5pdgiqx_Var4_lod0.FT_Greater_Burdock_xh5pdgiqx_Var4_lod0"
+	],
+	"materialInstances": [
+		{
+			"instanceId": "mat1",
+			"instanceName": "MI_Greater_Burdock_xh5pdgiqx_4K",
+			"instancePath": "/Game/Megascans/3D_Plants/Greater_Burdock_xh5pdgiqx/MI_Greater_Burdock_xh5pdgiqx_4K.MI_Greater_Burdock_xh5pdgiqx_4K",
+			"instanceMaster": "master1",
+			"type": "materialInstance",
+			"params": []
+		},
+		{
+			"instanceId": "mat2",
+			"instanceName": "MI_Greater_Burdock_xh5pdgiqx_Billboard_4K",
+			"instancePath": "/Game/Megascans/3D_Plants/Greater_Burdock_xh5pdgiqx/MI_Greater_Burdock_xh5pdgiqx_Billboard_4K.MI_Greater_Burdock_xh5pdgiqx_Billboard_4K",
+			"instanceMaster": "master2",
+			"type": "materialInstance",
+			"params": []
+		}
+	],
+	"textureSets": [
+		{
+			"textureId": "tex1",
+			"type": "ORT",
+			"resolution": "4K",
+			"name": "T_GreaterBurdock_xh5pdgiqx_4K_ART",
+			"path": "/Game/Megascans/3D_Plants/Greater_Burdock_xh5pdgiqx/T_GreaterBurdock_xh5pdgiqx_4K_ART.T_GreaterBurdock_xh5pdgiqx_4K_ART",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "PackTexture"
+				}
+			]
+		},
+		{
+			"textureId": "tex2",
+			"type": "albedo",
+			"resolution": "4K",
+			"name": "T_Greater_Burdock_xh5pdgiqx_4K_D",
+			"path": "/Game/Megascans/3D_Plants/Greater_Burdock_xh5pdgiqx/T_Greater_Burdock_xh5pdgiqx_4K_D.T_Greater_Burdock_xh5pdgiqx_4K_D",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "albedo"
+				}
+			]
+		},
+		{
+			"textureId": "tex3",
+			"type": "normal",
+			"resolution": "4K",
+			"name": "T_Greater_Burdock_xh5pdgiqx_4K_N",
+			"path": "/Game/Megascans/3D_Plants/Greater_Burdock_xh5pdgiqx/T_Greater_Burdock_xh5pdgiqx_4K_N.T_Greater_Burdock_xh5pdgiqx_4K_N",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "normal"
+				}
+			]
+		},
+		{
+			"textureId": "tex1",
+			"type": "PackTexture",
+			"resolution": "4K",
+			"name": "T_GreaterBurdock_xh5pdgiqx_4K_billboard_ART",
+			"path": "/Game/Megascans/3D_Plants/Greater_Burdock_xh5pdgiqx/T_GreaterBurdock_xh5pdgiqx_4K_billboard_ART.T_GreaterBurdock_xh5pdgiqx_4K_billboard_ART",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "PackTexture"
+				}
+			]
+		},
+		{
+			"textureId": "tex2",
+			"type": "albedo",
+			"resolution": "",
+			"name": "T_Greater_Burdock_xh5pdgiqx_Billboard_D",
+			"path": "/Game/Megascans/3D_Plants/Greater_Burdock_xh5pdgiqx/T_Greater_Burdock_xh5pdgiqx_Billboard_D.T_Greater_Burdock_xh5pdgiqx_Billboard_D",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "albedo"
+				}
+			]
+		},
+		{
+			"textureId": "tex3",
+			"type": "normal",
+			"resolution": "",
+			"name": "T_Greater_Burdock_xh5pdgiqx_Billboard_N",
+			"path": "/Game/Megascans/3D_Plants/Greater_Burdock_xh5pdgiqx/T_Greater_Burdock_xh5pdgiqx_Billboard_N.T_Greater_Burdock_xh5pdgiqx_Billboard_N",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "normal"
+				}
+			]
+		}
+	],
+	"masterMaterials": [
+		{
+			"masterId": "master1",
+			"masterMaterialName": "M_MS_Foliage_Material",
+			"path": "/Game/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material"
+		},
+		{
+			"masterId": "master2",
+			"masterMaterialName": "M_MS_Billboard_Material",
+			"path": "/Game/MSPresets/M_MS_Billboard_Material/M_MS_Billboard_Material"
+		}
+	]
+}
