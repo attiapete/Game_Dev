@@ -2770,6 +2770,18 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/RestartEditor/Binaries/Win64/UnrealEditor-RestartEditor.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/RestartEditor/Binaries/Win64/UnrealEditor-RestartEditor.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/RestartEditor/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Marketplace/VisualStudioTools/Binaries/Win64/UnrealEditor-VisualStudioTools.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -24629,6 +24641,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Interchange/Runtime/Interchange.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/RestartEditor/RestartEditor.uplugin",
 			"Type": "UFS"
 		},
 		{
