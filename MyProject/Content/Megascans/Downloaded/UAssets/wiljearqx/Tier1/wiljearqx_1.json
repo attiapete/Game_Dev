@@ -1,0 +1,355 @@
+{
+	"assetId": "wiljearqx",
+	"assetName": "Kikuyu_Grass_wiljearqx",
+	"assetType": "3dplant",
+	"assetSubType": "multipleMesh",
+	"assetTier": 1,
+	"assetRootPath": "/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx",
+	"meshList": [
+		{
+			"meshId": "mesh2",
+			"name": "S_Kikuyu_Grass_wiljearqx_Var1_lod0",
+			"path": "/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/S_Kikuyu_Grass_wiljearqx_Var1_lod0.S_Kikuyu_Grass_wiljearqx_Var1_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh4",
+			"name": "S_Kikuyu_Grass_wiljearqx_Var2_lod0",
+			"path": "/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/S_Kikuyu_Grass_wiljearqx_Var2_lod0.S_Kikuyu_Grass_wiljearqx_Var2_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh6",
+			"name": "S_Kikuyu_Grass_wiljearqx_Var3_lod0",
+			"path": "/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/S_Kikuyu_Grass_wiljearqx_Var3_lod0.S_Kikuyu_Grass_wiljearqx_Var3_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh8",
+			"name": "S_Kikuyu_Grass_wiljearqx_Var4_lod0",
+			"path": "/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/S_Kikuyu_Grass_wiljearqx_Var4_lod0.S_Kikuyu_Grass_wiljearqx_Var4_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh10",
+			"name": "S_Kikuyu_Grass_wiljearqx_Var5_lod0",
+			"path": "/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/S_Kikuyu_Grass_wiljearqx_Var5_lod0.S_Kikuyu_Grass_wiljearqx_Var5_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh12",
+			"name": "S_Kikuyu_Grass_wiljearqx_Var6_lod0",
+			"path": "/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/S_Kikuyu_Grass_wiljearqx_Var6_lod0.S_Kikuyu_Grass_wiljearqx_Var6_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh14",
+			"name": "S_Kikuyu_Grass_wiljearqx_Var7_lod0",
+			"path": "/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/S_Kikuyu_Grass_wiljearqx_Var7_lod0.S_Kikuyu_Grass_wiljearqx_Var7_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh16",
+			"name": "S_Kikuyu_Grass_wiljearqx_Var8_lod0",
+			"path": "/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/S_Kikuyu_Grass_wiljearqx_Var8_lod0.S_Kikuyu_Grass_wiljearqx_Var8_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh18",
+			"name": "S_Kikuyu_Grass_wiljearqx_Var9_lod0",
+			"path": "/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/S_Kikuyu_Grass_wiljearqx_Var9_lod0.S_Kikuyu_Grass_wiljearqx_Var9_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh20",
+			"name": "S_Kikuyu_Grass_wiljearqx_Var10_lod0",
+			"path": "/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/S_Kikuyu_Grass_wiljearqx_Var10_lod0.S_Kikuyu_Grass_wiljearqx_Var10_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh22",
+			"name": "S_Kikuyu_Grass_wiljearqx_Var11_lod0",
+			"path": "/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/S_Kikuyu_Grass_wiljearqx_Var11_lod0.S_Kikuyu_Grass_wiljearqx_Var11_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh24",
+			"name": "S_Kikuyu_Grass_wiljearqx_Var12_lod0",
+			"path": "/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/S_Kikuyu_Grass_wiljearqx_Var12_lod0.S_Kikuyu_Grass_wiljearqx_Var12_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh26",
+			"name": "S_Kikuyu_Grass_wiljearqx_Var13_lod0",
+			"path": "/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/S_Kikuyu_Grass_wiljearqx_Var13_lod0.S_Kikuyu_Grass_wiljearqx_Var13_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh28",
+			"name": "S_Kikuyu_Grass_wiljearqx_Var14_lod0",
+			"path": "/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/S_Kikuyu_Grass_wiljearqx_Var14_lod0.S_Kikuyu_Grass_wiljearqx_Var14_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh30",
+			"name": "S_Kikuyu_Grass_wiljearqx_Var15_lod0",
+			"path": "/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/S_Kikuyu_Grass_wiljearqx_Var15_lod0.S_Kikuyu_Grass_wiljearqx_Var15_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh32",
+			"name": "S_Kikuyu_Grass_wiljearqx_Var16_lod0",
+			"path": "/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/S_Kikuyu_Grass_wiljearqx_Var16_lod0.S_Kikuyu_Grass_wiljearqx_Var16_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh34",
+			"name": "S_Kikuyu_Grass_wiljearqx_Var17_lod0",
+			"path": "/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/S_Kikuyu_Grass_wiljearqx_Var17_lod0.S_Kikuyu_Grass_wiljearqx_Var17_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		}
+	],
+	"foliageAssetPaths": [
+		"/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/Foliage/FT_Kikuyu_Grass_wiljearqx_Var1_lod0.FT_Kikuyu_Grass_wiljearqx_Var1_lod0",
+		"/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/Foliage/FT_Kikuyu_Grass_wiljearqx_Var2_lod0.FT_Kikuyu_Grass_wiljearqx_Var2_lod0",
+		"/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/Foliage/FT_Kikuyu_Grass_wiljearqx_Var3_lod0.FT_Kikuyu_Grass_wiljearqx_Var3_lod0",
+		"/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/Foliage/FT_Kikuyu_Grass_wiljearqx_Var4_lod0.FT_Kikuyu_Grass_wiljearqx_Var4_lod0",
+		"/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/Foliage/FT_Kikuyu_Grass_wiljearqx_Var5_lod0.FT_Kikuyu_Grass_wiljearqx_Var5_lod0",
+		"/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/Foliage/FT_Kikuyu_Grass_wiljearqx_Var6_lod0.FT_Kikuyu_Grass_wiljearqx_Var6_lod0",
+		"/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/Foliage/FT_Kikuyu_Grass_wiljearqx_Var7_lod0.FT_Kikuyu_Grass_wiljearqx_Var7_lod0",
+		"/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/Foliage/FT_Kikuyu_Grass_wiljearqx_Var8_lod0.FT_Kikuyu_Grass_wiljearqx_Var8_lod0",
+		"/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/Foliage/FT_Kikuyu_Grass_wiljearqx_Var9_lod0.FT_Kikuyu_Grass_wiljearqx_Var9_lod0",
+		"/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/Foliage/FT_Kikuyu_Grass_wiljearqx_Var10_lod0.FT_Kikuyu_Grass_wiljearqx_Var10_lod0",
+		"/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/Foliage/FT_Kikuyu_Grass_wiljearqx_Var11_lod0.FT_Kikuyu_Grass_wiljearqx_Var11_lod0",
+		"/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/Foliage/FT_Kikuyu_Grass_wiljearqx_Var12_lod0.FT_Kikuyu_Grass_wiljearqx_Var12_lod0",
+		"/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/Foliage/FT_Kikuyu_Grass_wiljearqx_Var13_lod0.FT_Kikuyu_Grass_wiljearqx_Var13_lod0",
+		"/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/Foliage/FT_Kikuyu_Grass_wiljearqx_Var14_lod0.FT_Kikuyu_Grass_wiljearqx_Var14_lod0",
+		"/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/Foliage/FT_Kikuyu_Grass_wiljearqx_Var15_lod0.FT_Kikuyu_Grass_wiljearqx_Var15_lod0",
+		"/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/Foliage/FT_Kikuyu_Grass_wiljearqx_Var16_lod0.FT_Kikuyu_Grass_wiljearqx_Var16_lod0",
+		"/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/Foliage/FT_Kikuyu_Grass_wiljearqx_Var17_lod0.FT_Kikuyu_Grass_wiljearqx_Var17_lod0"
+	],
+	"materialInstances": [
+		{
+			"instanceId": "mat1",
+			"instanceName": "MI_Kikuyu_Grass_wiljearqx_4K",
+			"instancePath": "/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/MI_Kikuyu_Grass_wiljearqx_4K.MI_Kikuyu_Grass_wiljearqx_4K",
+			"instanceMaster": "master1",
+			"type": "materialInstance",
+			"params": []
+		},
+		{
+			"instanceId": "mat2",
+			"instanceName": "MI_Kikuyu_Grass_wiljearqx_Billboard_4K",
+			"instancePath": "/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/MI_Kikuyu_Grass_wiljearqx_Billboard_4K.MI_Kikuyu_Grass_wiljearqx_Billboard_4K",
+			"instanceMaster": "master2",
+			"type": "materialInstance",
+			"params": []
+		}
+	],
+	"textureSets": [
+		{
+			"textureId": "tex1",
+			"type": "ORT",
+			"resolution": "4K",
+			"name": "T_KikuyuGrass_wiljearqx_4K_ART",
+			"path": "/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/T_KikuyuGrass_wiljearqx_4K_ART.T_KikuyuGrass_wiljearqx_4K_ART",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "PackTexture"
+				}
+			]
+		},
+		{
+			"textureId": "tex2",
+			"type": "albedo",
+			"resolution": "4K",
+			"name": "T_Kikuyu_Grass_wiljearqx_4K_D",
+			"path": "/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/T_Kikuyu_Grass_wiljearqx_4K_D.T_Kikuyu_Grass_wiljearqx_4K_D",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "albedo"
+				}
+			]
+		},
+		{
+			"textureId": "tex3",
+			"type": "normal",
+			"resolution": "4K",
+			"name": "T_Kikuyu_Grass_wiljearqx_4K_N",
+			"path": "/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/T_Kikuyu_Grass_wiljearqx_4K_N.T_Kikuyu_Grass_wiljearqx_4K_N",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "normal"
+				}
+			]
+		},
+		{
+			"textureId": "tex1",
+			"type": "PackTexture",
+			"resolution": "4K",
+			"name": "T_KikuyuGrass_wiljearqx_4K_billboard_ART",
+			"path": "/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/T_KikuyuGrass_wiljearqx_4K_billboard_ART.T_KikuyuGrass_wiljearqx_4K_billboard_ART",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "PackTexture"
+				}
+			]
+		},
+		{
+			"textureId": "tex2",
+			"type": "albedo",
+			"resolution": "",
+			"name": "T_Kikuyu_Grass_wiljearqx_Billboard_D",
+			"path": "/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/T_Kikuyu_Grass_wiljearqx_Billboard_D.T_Kikuyu_Grass_wiljearqx_Billboard_D",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "albedo"
+				}
+			]
+		},
+		{
+			"textureId": "tex3",
+			"type": "normal",
+			"resolution": "",
+			"name": "T_Kikuyu_Grass_wiljearqx_Billboard_N",
+			"path": "/Game/Megascans/3D_Plants/Kikuyu_Grass_wiljearqx/T_Kikuyu_Grass_wiljearqx_Billboard_N.T_Kikuyu_Grass_wiljearqx_Billboard_N",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "normal"
+				}
+			]
+		}
+	],
+	"masterMaterials": [
+		{
+			"masterId": "master1",
+			"masterMaterialName": "M_MS_Foliage_Material",
+			"path": "/Game/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material"
+		},
+		{
+			"masterId": "master2",
+			"masterMaterialName": "M_MS_Billboard_Material",
+			"path": "/Game/MSPresets/M_MS_Billboard_Material/M_MS_Billboard_Material"
+		}
+	]
+}

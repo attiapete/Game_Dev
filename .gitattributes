@@ -16,3 +16,4 @@
 *.v2 filter=lfs diff=lfs merge=lfs -text
 MyProject/.vs/MyProject/v17/.suo filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
+*.xcf filter=lfs diff=lfs merge=lfs -text

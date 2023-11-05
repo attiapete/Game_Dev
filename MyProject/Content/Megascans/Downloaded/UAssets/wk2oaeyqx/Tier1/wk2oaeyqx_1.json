@@ -1,0 +1,602 @@
+{
+	"assetId": "wk2oaeyqx",
+	"assetName": "Tundra_Grass_wk2oaeyqx",
+	"assetType": "3dplant",
+	"assetSubType": "multipleMesh",
+	"assetTier": 1,
+	"assetRootPath": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx",
+	"meshList": [
+		{
+			"meshId": "mesh2",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var1_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var1_lod0.S_Tundra_Grass_wk2oaeyqx_Var1_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh4",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var2_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var2_lod0.S_Tundra_Grass_wk2oaeyqx_Var2_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh6",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var3_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var3_lod0.S_Tundra_Grass_wk2oaeyqx_Var3_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh8",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var4_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var4_lod0.S_Tundra_Grass_wk2oaeyqx_Var4_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh10",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var5_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var5_lod0.S_Tundra_Grass_wk2oaeyqx_Var5_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh12",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var6_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var6_lod0.S_Tundra_Grass_wk2oaeyqx_Var6_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh14",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var7_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var7_lod0.S_Tundra_Grass_wk2oaeyqx_Var7_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh16",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var8_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var8_lod0.S_Tundra_Grass_wk2oaeyqx_Var8_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh18",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var9_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var9_lod0.S_Tundra_Grass_wk2oaeyqx_Var9_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh20",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var10_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var10_lod0.S_Tundra_Grass_wk2oaeyqx_Var10_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh22",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var11_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var11_lod0.S_Tundra_Grass_wk2oaeyqx_Var11_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh24",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var12_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var12_lod0.S_Tundra_Grass_wk2oaeyqx_Var12_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh26",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var13_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var13_lod0.S_Tundra_Grass_wk2oaeyqx_Var13_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh28",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var14_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var14_lod0.S_Tundra_Grass_wk2oaeyqx_Var14_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh30",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var15_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var15_lod0.S_Tundra_Grass_wk2oaeyqx_Var15_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh32",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var16_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var16_lod0.S_Tundra_Grass_wk2oaeyqx_Var16_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh34",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var17_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var17_lod0.S_Tundra_Grass_wk2oaeyqx_Var17_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh36",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var18_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var18_lod0.S_Tundra_Grass_wk2oaeyqx_Var18_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh38",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var19_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var19_lod0.S_Tundra_Grass_wk2oaeyqx_Var19_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh40",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var20_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var20_lod0.S_Tundra_Grass_wk2oaeyqx_Var20_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh42",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var21_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var21_lod0.S_Tundra_Grass_wk2oaeyqx_Var21_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh44",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var22_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var22_lod0.S_Tundra_Grass_wk2oaeyqx_Var22_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh46",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var23_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var23_lod0.S_Tundra_Grass_wk2oaeyqx_Var23_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh48",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var24_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var24_lod0.S_Tundra_Grass_wk2oaeyqx_Var24_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh50",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var25_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var25_lod0.S_Tundra_Grass_wk2oaeyqx_Var25_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh52",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var26_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var26_lod0.S_Tundra_Grass_wk2oaeyqx_Var26_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh54",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var27_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var27_lod0.S_Tundra_Grass_wk2oaeyqx_Var27_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh56",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var28_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var28_lod0.S_Tundra_Grass_wk2oaeyqx_Var28_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh58",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var29_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var29_lod0.S_Tundra_Grass_wk2oaeyqx_Var29_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh60",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var30_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var30_lod0.S_Tundra_Grass_wk2oaeyqx_Var30_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh62",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var31_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var31_lod0.S_Tundra_Grass_wk2oaeyqx_Var31_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh64",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var32_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var32_lod0.S_Tundra_Grass_wk2oaeyqx_Var32_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh66",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var33_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var33_lod0.S_Tundra_Grass_wk2oaeyqx_Var33_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh68",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var34_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var34_lod0.S_Tundra_Grass_wk2oaeyqx_Var34_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh70",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var35_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var35_lod0.S_Tundra_Grass_wk2oaeyqx_Var35_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh72",
+			"name": "S_Tundra_Grass_wk2oaeyqx_Var36_lod0",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/S_Tundra_Grass_wk2oaeyqx_Var36_lod0.S_Tundra_Grass_wk2oaeyqx_Var36_lod0",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		}
+	],
+	"foliageAssetPaths": [
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var1_lod0.FT_Tundra_Grass_wk2oaeyqx_Var1_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var2_lod0.FT_Tundra_Grass_wk2oaeyqx_Var2_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var3_lod0.FT_Tundra_Grass_wk2oaeyqx_Var3_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var4_lod0.FT_Tundra_Grass_wk2oaeyqx_Var4_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var5_lod0.FT_Tundra_Grass_wk2oaeyqx_Var5_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var6_lod0.FT_Tundra_Grass_wk2oaeyqx_Var6_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var7_lod0.FT_Tundra_Grass_wk2oaeyqx_Var7_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var8_lod0.FT_Tundra_Grass_wk2oaeyqx_Var8_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var9_lod0.FT_Tundra_Grass_wk2oaeyqx_Var9_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var10_lod0.FT_Tundra_Grass_wk2oaeyqx_Var10_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var11_lod0.FT_Tundra_Grass_wk2oaeyqx_Var11_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var12_lod0.FT_Tundra_Grass_wk2oaeyqx_Var12_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var13_lod0.FT_Tundra_Grass_wk2oaeyqx_Var13_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var14_lod0.FT_Tundra_Grass_wk2oaeyqx_Var14_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var15_lod0.FT_Tundra_Grass_wk2oaeyqx_Var15_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var16_lod0.FT_Tundra_Grass_wk2oaeyqx_Var16_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var17_lod0.FT_Tundra_Grass_wk2oaeyqx_Var17_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var18_lod0.FT_Tundra_Grass_wk2oaeyqx_Var18_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var19_lod0.FT_Tundra_Grass_wk2oaeyqx_Var19_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var20_lod0.FT_Tundra_Grass_wk2oaeyqx_Var20_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var21_lod0.FT_Tundra_Grass_wk2oaeyqx_Var21_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var22_lod0.FT_Tundra_Grass_wk2oaeyqx_Var22_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var23_lod0.FT_Tundra_Grass_wk2oaeyqx_Var23_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var24_lod0.FT_Tundra_Grass_wk2oaeyqx_Var24_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var25_lod0.FT_Tundra_Grass_wk2oaeyqx_Var25_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var26_lod0.FT_Tundra_Grass_wk2oaeyqx_Var26_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var27_lod0.FT_Tundra_Grass_wk2oaeyqx_Var27_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var28_lod0.FT_Tundra_Grass_wk2oaeyqx_Var28_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var29_lod0.FT_Tundra_Grass_wk2oaeyqx_Var29_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var30_lod0.FT_Tundra_Grass_wk2oaeyqx_Var30_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var31_lod0.FT_Tundra_Grass_wk2oaeyqx_Var31_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var32_lod0.FT_Tundra_Grass_wk2oaeyqx_Var32_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var33_lod0.FT_Tundra_Grass_wk2oaeyqx_Var33_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var34_lod0.FT_Tundra_Grass_wk2oaeyqx_Var34_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var35_lod0.FT_Tundra_Grass_wk2oaeyqx_Var35_lod0",
+		"/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/Foliage/FT_Tundra_Grass_wk2oaeyqx_Var36_lod0.FT_Tundra_Grass_wk2oaeyqx_Var36_lod0"
+	],
+	"materialInstances": [
+		{
+			"instanceId": "mat1",
+			"instanceName": "MI_Tundra_Grass_wk2oaeyqx_4K",
+			"instancePath": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/MI_Tundra_Grass_wk2oaeyqx_4K.MI_Tundra_Grass_wk2oaeyqx_4K",
+			"instanceMaster": "master1",
+			"type": "materialInstance",
+			"params": []
+		},
+		{
+			"instanceId": "mat2",
+			"instanceName": "MI_Tundra_Grass_wk2oaeyqx_Billboard_4K",
+			"instancePath": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/MI_Tundra_Grass_wk2oaeyqx_Billboard_4K.MI_Tundra_Grass_wk2oaeyqx_Billboard_4K",
+			"instanceMaster": "master2",
+			"type": "materialInstance",
+			"params": []
+		}
+	],
+	"textureSets": [
+		{
+			"textureId": "tex1",
+			"type": "ORT",
+			"resolution": "4K",
+			"name": "T_TundraGrass_wk2oaeyqx_4K_ART",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/T_TundraGrass_wk2oaeyqx_4K_ART.T_TundraGrass_wk2oaeyqx_4K_ART",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "PackTexture"
+				}
+			]
+		},
+		{
+			"textureId": "tex2",
+			"type": "albedo",
+			"resolution": "4K",
+			"name": "T_Tundra_Grass_wk2oaeyqx_4K_D",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/T_Tundra_Grass_wk2oaeyqx_4K_D.T_Tundra_Grass_wk2oaeyqx_4K_D",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "albedo"
+				}
+			]
+		},
+		{
+			"textureId": "tex3",
+			"type": "normal",
+			"resolution": "4K",
+			"name": "T_Tundra_Grass_wk2oaeyqx_4K_N",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/T_Tundra_Grass_wk2oaeyqx_4K_N.T_Tundra_Grass_wk2oaeyqx_4K_N",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "normal"
+				}
+			]
+		},
+		{
+			"textureId": "tex1",
+			"type": "PackTexture",
+			"resolution": "4K",
+			"name": "T_TundraGrass_wk2oaeyqx_4K_billboard_ART",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/T_TundraGrass_wk2oaeyqx_4K_billboard_ART.T_TundraGrass_wk2oaeyqx_4K_billboard_ART",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "PackTexture"
+				}
+			]
+		},
+		{
+			"textureId": "tex2",
+			"type": "albedo",
+			"resolution": "",
+			"name": "T_Tundra_Grass_wk2oaeyqx_Billboard_D",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/T_Tundra_Grass_wk2oaeyqx_Billboard_D.T_Tundra_Grass_wk2oaeyqx_Billboard_D",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "albedo"
+				}
+			]
+		},
+		{
+			"textureId": "tex3",
+			"type": "normal",
+			"resolution": "",
+			"name": "T_Tundra_Grass_wk2oaeyqx_Billboard_N",
+			"path": "/Game/Megascans/3D_Plants/Tundra_Grass_wk2oaeyqx/T_Tundra_Grass_wk2oaeyqx_Billboard_N.T_Tundra_Grass_wk2oaeyqx_Billboard_N",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "normal"
+				}
+			]
+		}
+	],
+	"masterMaterials": [
+		{
+			"masterId": "master1",
+			"masterMaterialName": "M_MS_Foliage_Material",
+			"path": "/Game/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material"
+		},
+		{
+			"masterId": "master2",
+			"masterMaterialName": "M_MS_Billboard_Material",
+			"path": "/Game/MSPresets/M_MS_Billboard_Material/M_MS_Billboard_Material"
+		}
+	]
+}
