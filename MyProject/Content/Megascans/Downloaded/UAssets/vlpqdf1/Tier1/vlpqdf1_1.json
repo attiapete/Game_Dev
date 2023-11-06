@@ -1,0 +1,87 @@
+{
+	"assetId": "vlpqdf1",
+	"assetName": "Rough_Asphalt_vlpqdf1",
+	"assetType": "surface",
+	"assetSubType": "",
+	"assetTier": 1,
+	"assetRootPath": "/Game/Megascans/Surfaces/Rough_Asphalt_vlpqdf1",
+	"meshList": [],
+	"foliageAssetPaths": [],
+	"materialInstances": [
+		{
+			"instanceId": "mat1",
+			"instanceName": "MI_Rough_Asphalt_vlpqdf1_4K",
+			"instancePath": "/Game/Megascans/Surfaces/Rough_Asphalt_vlpqdf1/MI_Rough_Asphalt_vlpqdf1_4K.MI_Rough_Asphalt_vlpqdf1_4K",
+			"instanceMaster": "master1",
+			"type": "materialInstance",
+			"params": [
+				{
+					"paramName": "albedo",
+					"usedTextureId": "tex2"
+				},
+				{
+					"paramName": "normal",
+					"usedTextureId": "tex3"
+				},
+				{
+					"paramName": "ARD",
+					"usedTextureId": "tex1"
+				}
+			]
+		}
+	],
+	"textureSets": [
+		{
+			"textureId": "tex1",
+			"type": "ARD",
+			"resolution": "4K",
+			"name": "T_RoughAsphalt_vlpqdf1_4K_ORDp",
+			"path": "/Game/Megascans/Surfaces/Rough_Asphalt_vlpqdf1/T_RoughAsphalt_vlpqdf1_4K_ORDp.T_RoughAsphalt_vlpqdf1_4K_ORDp",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "PackTexture"
+				}
+			]
+		},
+		{
+			"textureId": "tex2",
+			"type": "albedo",
+			"resolution": "4K",
+			"name": "T_Rough_Asphalt_vlpqdf1_4K_D",
+			"path": "/Game/Megascans/Surfaces/Rough_Asphalt_vlpqdf1/T_Rough_Asphalt_vlpqdf1_4K_D.T_Rough_Asphalt_vlpqdf1_4K_D",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "albedo"
+				}
+			]
+		},
+		{
+			"textureId": "tex3",
+			"type": "normal",
+			"resolution": "4K",
+			"name": "T_Rough_Asphalt_vlpqdf1_4K_N",
+			"path": "/Game/Megascans/Surfaces/Rough_Asphalt_vlpqdf1/T_Rough_Asphalt_vlpqdf1_4K_N.T_Rough_Asphalt_vlpqdf1_4K_N",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "normal"
+				}
+			]
+		}
+	],
+	"masterMaterials": [
+		{
+			"masterId": "master1",
+			"masterMaterialName": "M_MS_Surface_Material",
+			"path": "/Game/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material"
+		}
+	]
+}
